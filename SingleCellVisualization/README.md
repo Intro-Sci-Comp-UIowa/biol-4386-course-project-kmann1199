@@ -11,19 +11,31 @@ Figure 1. Sydney Arlis unpublished data Fall 2022. Each dot represents a single 
 My colleague made her figure by taking single-cell RNA sequencing in the form of Fastq files and running them through a Python pipeline to map the transcripts to actual genes. We still have the Fastq files of data, and I have full access to these files. The pipeline is from the Allon Klein’s Lab’s GitHub page, and using the sequences can plot them on the spring plot based on the determinants of how similar the cells are to one another. The program can determine how to group the cells based on what they are/are not expressing compared to other cells, based on how many groups it is told to separate into. My colleague made this visualization using a spring-plot in python. Using the GitHub page https://github.com/AllonKleinLab/SPRING_dev I should be able to find the code necessary to recreate my colleague’s visualization. 
 # **Main steps**
 1.	Installations:
+
 	a.	Python Server
+
 		i.	As well as a few libraries
+
 		ii.	Also, miniconda
+
 	b.	R
 2.	Set up the SPRING data directory.
+
 	a.	The main directory will need multiple subdirectories.
+
 	b.	Then each subdirectory will need to contain other files
 3.	Run SPRING viewer.
+
 	a.	Open FastX.
+
 	b.	Start python server.
+
 	c.	View the data set.
 4.	Classify cellular phenotypes.
+
 	a.	Using SignacX in R
+
 	b.	Generate cellular phenotype labels.
+
 	c.	Write cell types to SPRING.
 5.	Data can now be visualized in SPRING viewer.
