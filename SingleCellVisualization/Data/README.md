@@ -1,2 +1,1 @@
-Initial Data Readme
-
+Fatsq files have been downloaded
