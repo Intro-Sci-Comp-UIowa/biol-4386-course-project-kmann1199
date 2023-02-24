@@ -1,1 +1,1 @@
-Fatsq files have been downloaded
+Fastq Files have been downloaded
