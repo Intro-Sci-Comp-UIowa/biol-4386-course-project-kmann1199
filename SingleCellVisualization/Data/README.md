@@ -1,1 +1,1 @@
-Fastq Files have been downloaded
+Files are available through IHG website specifically for Sydney. I also have both the raw data files and already processed data files, both of which are too large for the repository, they are being stored on the Houston lab server.
