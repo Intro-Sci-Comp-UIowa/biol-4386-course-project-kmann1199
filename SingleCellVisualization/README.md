@@ -1,4 +1,4 @@
-Single-Cell Visualization of Genes in the Head of Wildtype *Xenpus laevis*
+Single-Cell Visualization of Genes in the Head of Wildtype *Xenpus tropicalis*
 
 **Reference**
 
