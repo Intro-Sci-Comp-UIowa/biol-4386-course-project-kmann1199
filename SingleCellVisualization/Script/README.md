@@ -111,5 +111,7 @@ print 'Finished in %i seconds' %(time.time() - t0)
 /home/houston_common/miniconda/envs/spring/lib/python2.7/site-packages/matplotlib/font_manager.py:1331: UserWarning: findfont: Font family [u'sans-serif'] not found. Falling back to DejaVu Sans
   (prop.get_family(), self.defaultFamily[fontext]))
 
+<img width="443" alt="MeanVariancePlot" src="https://user-images.githubusercontent.com/124283697/235753678-37236979-f2c1-4aa0-8c01-c32de5239dd9.png">
+
 Finished in 48 seconds
  
