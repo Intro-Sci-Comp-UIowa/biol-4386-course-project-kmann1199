@@ -1,4 +1,5 @@
-#Setup
+# Setup
+
 ```
 %pylab inline
 from spring_helper import *
