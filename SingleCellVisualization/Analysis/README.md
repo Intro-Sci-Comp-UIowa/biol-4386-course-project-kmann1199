@@ -1,2 +1,2 @@
-There was no need for analysis for this project because I was starting with the already completed gene matrices from Sydney's project
+My filtered gene matrices are still too big for this repository at 68,000 KB. I did however store the filtered barcodes and features here. The matrices will remain on the Houston lab server under SingleCellData.
 
